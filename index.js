@@ -1,1 +1,1 @@
-console.log('this is test plugin index');
+console.log('i changed this index');
